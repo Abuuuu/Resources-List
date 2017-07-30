@@ -20,5 +20,8 @@ https://github.com/tanjiti/tanjiti-toolkit
 ICS Tools
 https://github.com/tanjiti/icstools
 
+Awesome-Vulnerability-Research
+https://github.com/re-pronin/Awesome-Vulnerability-Research
+
 # Malware Analysis Lessons
 https://github.com/RPISEC/Malware
