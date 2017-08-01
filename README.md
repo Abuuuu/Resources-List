@@ -32,9 +32,11 @@ https://github.com/RPISEC/Malware
 
 # Projects
 1. defplorex-machine-learning-toolkit-large-scale-ecrime-forensics
-
 https://github.com/trendmicro/defplorex
 
+
+2. PowerShell Obfuscation Detection Framework
+https://github.com/danielbohannon/Revoke-Obfuscation
 
 
 # Others
