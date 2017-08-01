@@ -11,6 +11,9 @@ https://github.com/FuzzySecurity/Resource-List
 BlackHat Con
 https://www.blackhat.com/us-17/briefings.html
 
+DEFCON 25
+https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/
+
 Attack Detection
 https://github.com/tanjiti/AttackDetection
 
