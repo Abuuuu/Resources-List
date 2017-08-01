@@ -25,3 +25,17 @@ https://github.com/re-pronin/Awesome-Vulnerability-Research
 
 # Malware Analysis Lessons
 https://github.com/RPISEC/Malware
+
+
+# Projects
+1. defplorex-machine-learning-toolkit-large-scale-ecrime-forensics
+
+https://github.com/trendmicro/defplorex
+
+
+
+# Others
+
+1. Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode
+
+https://github.com/monoxgas/sRDI
