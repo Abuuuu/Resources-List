@@ -39,6 +39,14 @@ https://github.com/trendmicro/defplorex
 https://github.com/danielbohannon/Revoke-Obfuscation
 
 
+# Tools
+1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
+https://github.com/pwndbg/pwndbg
+
+2.unix-like reverse engineering framework and commandline tools
+https://github.com/radare/radare2
+
+
 # Others
 
 1. Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode
