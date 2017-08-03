@@ -55,3 +55,9 @@ https://github.com/luctalpe/WMIMon
 1. Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode
 
 https://github.com/monoxgas/sRDI
+
+2. Volatility
+https://andreafortuna.org/tagged/volatility
+
+3. Hyper-V Internals
+http://hvinternals.blogspot.com/
