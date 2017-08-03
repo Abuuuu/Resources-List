@@ -49,6 +49,9 @@ https://github.com/radare/radare2
 3. Tool to monitor WMI activity on Windows
 https://github.com/luctalpe/WMIMon
 
+4. ISF(Industrial Exploitation Framework developed by Python)
+https://github.com/dark-lbp/isf
+
 
 # Others
 
