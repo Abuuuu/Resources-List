@@ -52,6 +52,9 @@ https://github.com/luctalpe/WMIMon
 4. ISF(Industrial Exploitation Framework developed by Python)
 https://github.com/dark-lbp/isf
 
+5. Various *nix tools built as statically-linked binaries
+https://github.com/andrew-d/static-binaries
+
 
 # Others
 
