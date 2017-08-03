@@ -55,6 +55,9 @@ https://github.com/dark-lbp/isf
 5. Various *nix tools built as statically-linked binaries
 https://github.com/andrew-d/static-binaries
 
+6. Tool for exploration and tracing of the Windows kernel
+https://github.com/rabbitstack/fibratus
+
 
 # Others
 
