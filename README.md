@@ -43,8 +43,11 @@ https://github.com/danielbohannon/Revoke-Obfuscation
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
 https://github.com/pwndbg/pwndbg
 
-2.unix-like reverse engineering framework and commandline tools
+2. unix-like reverse engineering framework and commandline tools
 https://github.com/radare/radare2
+
+3. Tool to monitor WMI activity on Windows
+https://github.com/luctalpe/WMIMon
 
 
 # Others
