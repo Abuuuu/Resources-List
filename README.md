@@ -70,6 +70,13 @@ https://github.com/ywolf/F-NAScan
 https://github.com/wisk/medusa
 
 
+10. Netzob: Protocol Reverse Engineering, Modeling and Fuzzing
+https://github.com/netzob/netzob
+
+11. Dshell is a network forensic analysis framework.
+https://github.com/USArmyResearchLab/Dshell
+
+
 # Others
 
 1. Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode
