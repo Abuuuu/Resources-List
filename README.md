@@ -58,6 +58,17 @@ https://github.com/andrew-d/static-binaries
 6. Tool for exploration and tracing of the Windows kernel
 https://github.com/rabbitstack/fibratus
 
+7. Scanning a network asset information script
+https://github.com/ywolf/F-NAScan
+
+8. Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
+
+ https://github.com/plasma-disassembler/plasma
+
+9. An open source interactive disassembler
+![medusa](/Resources/68747470733a2f2f726.png?raw=true)
+https://github.com/wisk/medusa
+
 
 # Others
 
