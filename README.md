@@ -64,6 +64,9 @@ https://github.com/ywolf/F-NAScan
 8. Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 
  https://github.com/plasma-disassembler/plasma
+ Plasma docker 
+ https://hub.docker.com/r/kdeneon/plasma/
+ 
 
 9. An open source interactive disassembler
 ![medusa](/Resources/68747470733a2f2f726.png?raw=true)
@@ -80,6 +83,11 @@ https://github.com/USArmyResearchLab/Dshell
 https://github.com/snare/voltron
 
 
+# Dockers
+1. A container with QEMU and GCC for MIPS to cross compile and run MIPS C and Assembler code on x86.
+https://github.com/ASMImproved/qemu-mips-docker
+
+
 # Others
 
 1. Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode
@@ -91,3 +99,9 @@ https://andreafortuna.org/tagged/volatility
 
 3. Hyper-V Internals
 http://hvinternals.blogspot.com/
+
+4. Analyzing Malware for Embedded Devices: TheMoon Worm
+https://w00tsec.blogspot.com/2014/02/analyzing-malware-for-embedded-devices.html
+
+5. Build strace for mips
+http://schematik.blogspot.com/2010/03/strace-build-with-uclibc.html
