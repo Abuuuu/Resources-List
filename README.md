@@ -31,6 +31,9 @@ https://github.com/tanjiti/icstools
 Awesome-Vulnerability-Research
 https://github.com/re-pronin/Awesome-Vulnerability-Research
 
+
+https://quequero.org/downloads/
+
 # Malware Analysis Lessons
 https://github.com/RPISEC/Malware
 
@@ -45,6 +48,16 @@ https://github.com/danielbohannon/Revoke-Obfuscation
 
 3. Tencent Linux Sandbox
 https://github.com/Tencent/HaboMalHunter
+
+4. Offline debugger for malware's reverse engineering
+https://github.com/malwarelu/malwasm
+
+
+5. Dynamic analysis of Android apps
+https://github.com/pjlantz/droidbox
+
+6. Automated malcode analysis system 
+https://github.com/dzzie/SysAnalyzer
 
 
 # Tools
