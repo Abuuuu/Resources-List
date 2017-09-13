@@ -43,6 +43,9 @@ https://github.com/trendmicro/defplorex
 2. PowerShell Obfuscation Detection Framework
 https://github.com/danielbohannon/Revoke-Obfuscation
 
+3. Tencent Linux Sandbox
+https://github.com/Tencent/HaboMalHunter
+
 
 # Tools
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
