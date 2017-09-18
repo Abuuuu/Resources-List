@@ -67,6 +67,9 @@ https://github.com/pjlantz/droidbox
 6. Automated malcode analysis system 
 https://github.com/dzzie/SysAnalyzer
 
+7. Incident Response Forensic Framework
+https://github.com/biggiesmallsAG/nightHawkResponse
+
 
 # Tools
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
