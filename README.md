@@ -112,6 +112,9 @@ https://github.com/snare/voltron
 13. Network reconnaissance and vulnerability assessment tools.
 https://github.com/RoliSoft/ReconScan
 
+14. Automated static analysis tools for binary programs
+https://github.com/cmu-sei/pharos
+
 
 # Dockers
 1. A container with QEMU and GCC for MIPS to cross compile and run MIPS C and Assembler code on x86.
