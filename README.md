@@ -114,6 +114,7 @@ https://github.com/RoliSoft/ReconScan
 
 14. Automated static analysis tools for binary programs
 https://github.com/cmu-sei/pharos
+http://insights.sei.cmu.edu/sei_blog/2017/08/pharos-binary-static-analysis-tools-released-on-github.html
 
 
 # Dockers
