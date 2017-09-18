@@ -13,6 +13,8 @@ https://github.com/rshipp/awesome-malware-analysis
 
 https://github.com/mwsrc
 
+https://github.com/CHYbeta/Software-Security-Learning
+
 
 
 
