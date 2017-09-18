@@ -118,6 +118,9 @@ https://github.com/RoliSoft/ReconScan
 https://github.com/cmu-sei/pharos
 http://insights.sei.cmu.edu/sei_blog/2017/08/pharos-binary-static-analysis-tools-released-on-github.html
 
+15. A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
+https://github.com/Konloch/bytecode-viewer/
+
 
 # Dockers
 1. A container with QEMU and GCC for MIPS to cross compile and run MIPS C and Assembler code on x86.
