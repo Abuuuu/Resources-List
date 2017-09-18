@@ -70,6 +70,9 @@ https://github.com/dzzie/SysAnalyzer
 7. Incident Response Forensic Framework
 https://github.com/biggiesmallsAG/nightHawkResponse
 
+8. Cosa Nostra, a FOSS graph based malware clusterization toolkit.
+https://github.com/joxeankoret/cosa-nostra
+
 
 # Tools
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
