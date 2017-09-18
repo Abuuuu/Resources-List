@@ -11,6 +11,8 @@ https://github.com/yenchenlin/awesome-adversarial-machine-learning
 
 https://github.com/rshipp/awesome-malware-analysis
 
+https://github.com/mwsrc
+
 
 
 
