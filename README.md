@@ -73,6 +73,10 @@ https://github.com/biggiesmallsAG/nightHawkResponse
 8. Cosa Nostra, a FOSS graph based malware clusterization toolkit.
 https://github.com/joxeankoret/cosa-nostra
 
+9. TheHive: a Scalable, Open Source and Free Security Incident Response Platform 
+https://thehive-project.org/
+https://github.com/CERT-BDF/TheHive
+
 
 # Tools
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
