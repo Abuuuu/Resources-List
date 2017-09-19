@@ -17,6 +17,8 @@ https://github.com/CHYbeta/Software-Security-Learning
 
 https://github.com/nullsecuritynet/tools
 
+https://github.com/toolswatch/blackhat-arsenal-tools
+
 
 
 
@@ -135,6 +137,9 @@ http://insights.sei.cmu.edu/sei_blog/2017/08/pharos-binary-static-analysis-tools
 
 15. A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 https://github.com/Konloch/bytecode-viewer/
+
+14. A (hopefully) generic unpacker for packed Android apps.
+https://github.com/CheckPointSW/android_unpacker
 
 
 # Dockers
