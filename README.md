@@ -46,6 +46,11 @@ https://github.com/re-pronin/Awesome-Vulnerability-Research
 
 https://quequero.org/downloads/
 
+Open Source Security
+https://n0where.net
+
+
+
 # Malware Analysis Lessons
 https://github.com/RPISEC/Malware
 
