@@ -95,6 +95,12 @@ https://github.com/cmu-sei/pharos
 12. idahunt is a framework to analyze binaries with IDA Pro and hunt for things in IDA Pro
 https://github.com/nccgroup/idahunt
 
+13. Web-based OSINT and active reconaissance suite
+https://github.com/ex0dus-0x/D0xk1t
+
+14.  using windows event forwarding for incident detection and response
+https://github.com/palantir/windows-event-forwarding
+
 
 # Tools
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
@@ -149,8 +155,11 @@ http://insights.sei.cmu.edu/sei_blog/2017/08/pharos-binary-static-analysis-tools
 15. A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 https://github.com/Konloch/bytecode-viewer/
 
-14. A (hopefully) generic unpacker for packed Android apps.
+16. A (hopefully) generic unpacker for packed Android apps.
 https://github.com/CheckPointSW/android_unpacker
+
+17. Utilities for Sysmon:SysmonShell & SysmonView
+https://github.com/nshalabi/SysmonTools
 
 
 # Dockers
