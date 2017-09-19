@@ -89,6 +89,9 @@ https://github.com/CERT-BDF/TheHive
 10. Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments. iadgov
 https://github.com/iadgov/grassmarlin
 
+11. Automated static analysis tools for binary programs
+https://github.com/cmu-sei/pharos
+
 
 # Tools
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
