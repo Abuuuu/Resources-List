@@ -92,6 +92,9 @@ https://github.com/iadgov/grassmarlin
 11. Automated static analysis tools for binary programs
 https://github.com/cmu-sei/pharos
 
+12. idahunt is a framework to analyze binaries with IDA Pro and hunt for things in IDA Pro
+https://github.com/nccgroup/idahunt
+
 
 # Tools
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
