@@ -101,6 +101,9 @@ https://github.com/ex0dus-0x/D0xk1t
 14.  using windows event forwarding for incident detection and response
 https://github.com/palantir/windows-event-forwarding
 
+15. macOS Kernel Fuzzer
+https://github.com/mwrlabs/OSXFuzz
+
 
 # Tools
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
