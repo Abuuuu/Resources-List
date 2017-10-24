@@ -104,6 +104,9 @@ https://github.com/palantir/windows-event-forwarding
 15. macOS Kernel Fuzzer
 https://github.com/mwrlabs/OSXFuzz
 
+16. This tool collects different artefacts on live Windows and records the results in csv or json files. With the analyses of these artefacts, an early compromission can be detected.
+https://github.com/SekoiaLab/Fastir_Collector
+
 
 # Tools
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
