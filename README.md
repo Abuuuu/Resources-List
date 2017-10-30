@@ -108,6 +108,12 @@ https://github.com/mwrlabs/OSXFuzz
 https://github.com/SekoiaLab/Fastir_Collector
 
 
+17. A pattern based Dalvik deobfuscator which uses limited execution to improve semantic analysis
+https://github.com/CalebFenton/dex-oracle
+
+18. A collection of hacking / penetration testing resources to make you better!
+https://github.com/vitalysim/Awesome-Hacking-Resources
+
 # Tools
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
 https://github.com/pwndbg/pwndbg
