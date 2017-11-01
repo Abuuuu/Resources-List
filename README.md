@@ -114,6 +114,10 @@ https://github.com/CalebFenton/dex-oracle
 18. A collection of hacking / penetration testing resources to make you better!
 https://github.com/vitalysim/Awesome-Hacking-Resources
 
+
+19. Malware Detection and Classification Using Machine Learning
+https://github.com/dchad/malware-detection
+
 # Tools
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
 https://github.com/pwndbg/pwndbg
