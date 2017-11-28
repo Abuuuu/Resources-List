@@ -19,7 +19,7 @@ https://github.com/nullsecuritynet/tools
 
 https://github.com/toolswatch/blackhat-arsenal-tools
 
-
+https://github.com/Biprodeep/awesome-ml-for-cybersecurity
 
 
 # Resources 
