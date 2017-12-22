@@ -118,6 +118,10 @@ https://github.com/vitalysim/Awesome-Hacking-Resources
 19. Malware Detection and Classification Using Machine Learning
 https://github.com/dchad/malware-detection
 
+
+20. A collection of various awesome lists for hackers, pentesters and security researchers
+https://github.com/Hack-with-Github/Awesome-Hacking
+
 # Tools
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
 https://github.com/pwndbg/pwndbg
