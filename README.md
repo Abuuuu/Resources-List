@@ -181,6 +181,9 @@ https://github.com/CheckPointSW/android_unpacker
 17. Utilities for Sysmon:SysmonShell & SysmonView
 https://github.com/nshalabi/SysmonTools
 
+18. Exploitation Framework for Embedded Devices
+https://github.com/threat9/routersploit
+
 
 # Dockers
 1. A container with QEMU and GCC for MIPS to cross compile and run MIPS C and Assembler code on x86.
