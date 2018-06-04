@@ -184,6 +184,9 @@ https://github.com/nshalabi/SysmonTools
 18. Exploitation Framework for Embedded Devices
 https://github.com/threat9/routersploit
 
+19. Malicious traffic detection system
+https://github.com/stamparm/maltrail
+
 
 # Dockers
 1. A container with QEMU and GCC for MIPS to cross compile and run MIPS C and Assembler code on x86.
