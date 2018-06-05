@@ -122,6 +122,9 @@ https://github.com/dchad/malware-detection
 20. A collection of various awesome lists for hackers, pentesters and security researchers
 https://github.com/Hack-with-Github/Awesome-Hacking
 
+21. snake - a malware storage zoo
+https://github.com/countercept/snake
+
 # Tools
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
 https://github.com/pwndbg/pwndbg
