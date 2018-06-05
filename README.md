@@ -125,6 +125,9 @@ https://github.com/Hack-with-Github/Awesome-Hacking
 21. snake - a malware storage zoo
 https://github.com/countercept/snake
 
+22. The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis https://gchq.github.io/CyberChef
+https://github.com/gchq/CyberChef
+
 # Tools
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
 https://github.com/pwndbg/pwndbg
