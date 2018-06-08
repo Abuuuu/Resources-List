@@ -133,6 +133,9 @@ https://github.com/gchq/CyberChef
 24. A curated list of awesome malware analysis tools and resources.
 https://github.com/rshipp/awesome-malware-analysis
 
+25. Knock Subdomain Scan
+https://github.com/guelfoweb/knock
+
 # Tools
 1. pwndbg:Exploit Development and Reverse Engineering with GDB Made Easy
 https://github.com/pwndbg/pwndbg
